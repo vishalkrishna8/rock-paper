@@ -1,4 +1,6 @@
-**Rock paper scissor**
+# Rock paper scissor
+
+This is a rock paper scissor website.
 
 
 **Technologies used**
@@ -10,6 +12,7 @@ HTML
 CSS
 
 JavaScript
+
 
 **Installation**
 
@@ -32,6 +35,7 @@ Make changes and commit them: git commit -am 'Add new feature'
 Push to the branch: git push origin new-feature
 
 Create a pull request
+
 
 **License**
 
