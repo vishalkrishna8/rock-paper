@@ -1,9 +1,14 @@
-# Rock paper scissor
+## Rock paper scissor
+
 
 This is a rock paper scissor website.
 
 
+**Live :** https://rockpapperscissor.vercel.app/
+
+
 **Technologies used**
+
 
 This website was built using the following technologies:
 
@@ -23,6 +28,7 @@ Clone the repository
 
 Open the website in a browser: http://localhost:3000
 
+
 **Contributing**
 
 
@@ -35,9 +41,3 @@ Make changes and commit them: git commit -am 'Add new feature'
 Push to the branch: git push origin new-feature
 
 Create a pull request
-
-
-**License**
-
-
-This website is licensed under the MIT License. See the LICENSE file for more information.
