@@ -31,13 +31,12 @@ Open the website in a browser: http://localhost:3000
 
 **Contributing**
 
-
 Contributions to the website are welcome. To contribute, follow these steps:
 
-Fork the repository Create a new branch: git checkout -b new-feature
+1. Fork the repository Create a new branch: git checkout -b new-feature
 
-Make changes and commit them: git commit -am 'Add new feature'
+2. Make changes and commit them: git commit -am 'Add new feature'
 
-Push to the branch: git push origin new-feature
+3. Push to the branch: git push origin new-feature
 
-Create a pull request
+4. Create a pull request
