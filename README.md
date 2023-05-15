@@ -4,32 +4,31 @@
 This is a rock paper scissor website.
 
 
-**[Live demo](https://rockpapperscissor.vercel.app/)**
+## [Live demo](https://rockpapperscissor.vercel.app/)
 
-
-**Technologies used**
+## Technologies used
 
 
 This website was built using the following technologies:
 
-HTML
+• HTML
 
-CSS
+• CSS
 
-JavaScript
+• JavaScript
 
 
-**Installation**
+## Installation
 
 
 To install and run the website locally, follow these steps:
 
-Clone the repository
+• Clone the repository
 
-Open the website in a browser: http://localhost:3000
+• Open the website in a browser: http://localhost:3000
 
 
-**Contributing**
+## Contributing
 
 Contributions to the website are welcome. To contribute, follow these steps:
 
