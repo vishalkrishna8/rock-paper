@@ -1,4 +1,4 @@
-## Rock paper scissor
+# Rock paper scissor
 
 
 This is a rock paper scissor website.
