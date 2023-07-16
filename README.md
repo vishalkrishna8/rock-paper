@@ -6,7 +6,7 @@ This is a rock paper scissor website.
 
 # [Live demo](https://rockpapperscissor.vercel.app/)
 
-## Technologies used
+#### Technologies used
 
 
 This website was built using the following technologies:
