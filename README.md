@@ -6,6 +6,7 @@ This is a rock paper scissor website.
 
 # [Live Preview](https://rockpapperscissor.vercel.app/)
 
+
 #### Technologies used
 
 
@@ -43,5 +44,5 @@ Contributions to the website are welcome. To contribute, follow these steps:
 
 #### Show your support
 
-Don't forget to ⭐ the repo if you like it 😊
 
+Don't forget to ⭐ the repo if you like it 😊
