@@ -14,9 +14,12 @@ html{
 }
 
 body{
-    <!-- background-color: #454244; -->
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimg.png);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimg.png);
+    <!-- background-color: #454244;
+         display: flex;
+    justify-content: center;
+    align-items: center; -->
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimage.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimage.jpeg);
     background-size: cover;
     background-position: center;
     
