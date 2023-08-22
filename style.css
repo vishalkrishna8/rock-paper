@@ -14,7 +14,13 @@ html{
 }
 
 body{
-    background-color: #454244;
+    <!-- background-color: #454244; -->
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimg.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimg.png);
+    background-size: cover;
+    background-position: center;
+    
+    background-attachment: fixed;
 }
 
 .btn {
